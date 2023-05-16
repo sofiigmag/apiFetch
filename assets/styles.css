@@ -1,0 +1,24 @@
+body {
+    font-family: 'Barlow', sans-serif;
+    
+}
+
+h1{
+    text-align: center;
+}
+
+#boton{
+    margin: 20px;
+}
+
+#tabla{
+    margin: 10px;
+}
+
+.hide {
+    display: none;
+}
+
+img.img-avatar {
+    border-radius: 50%;
+}
